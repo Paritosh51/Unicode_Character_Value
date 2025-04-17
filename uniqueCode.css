@@ -53,6 +53,8 @@ button{
     width: 60px;
     height: 40px;
     margin-left: 20vw;
+    curson:pointer;
+    border-radius:7px;
 }
 p{
     margin-left: 15vw;
